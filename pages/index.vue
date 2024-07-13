@@ -7,5 +7,5 @@
 </template>
 
 <style lang="scss" scoped>
-  @import "~/assets/css/common.scss";
+  @import '~/assets/css/common.scss';
 </style>
